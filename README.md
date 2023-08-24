@@ -21,7 +21,7 @@ If you'd like to experiment with this project, follow these steps:
 1 . **Clone the Repository:** Use Git to clone this repository to your local machine.
 
 ``` 
-git clone https://github.com/your-username/DotNetInteropDemo.git
+git clone https://github.com/GeovaniRd/DotNetInteropDemo.git
 ```
 
 2 . **Open in Visual Studio:** Navigate to the directory where you cloned the repository and double-click on the **.sln** file to open it in Visual Studio.
