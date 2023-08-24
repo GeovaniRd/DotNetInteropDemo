@@ -1,0 +1,17 @@
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\App.g.cs
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.cache
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\bin\Debug\SimpleCalculatorLib.dll
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\bin\Debug\SimpleCalculatorLib.pdb
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\MainWindow.baml
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp.g.resources
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Q0RMCGR9\Developer\Test1\CalculatorApp\obj\Debug\CalculatorApp.pdb

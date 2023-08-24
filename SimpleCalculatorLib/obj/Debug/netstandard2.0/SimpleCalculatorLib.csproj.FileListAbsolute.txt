@@ -1,0 +1,10 @@
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\bin\Debug\netstandard2.0\SimpleCalculatorLib.deps.json
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\bin\Debug\netstandard2.0\SimpleCalculatorLib.dll
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\bin\Debug\netstandard2.0\SimpleCalculatorLib.pdb
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\obj\Debug\netstandard2.0\SimpleCalculatorLib.csproj.AssemblyReference.cache
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\obj\Debug\netstandard2.0\SimpleCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\obj\Debug\netstandard2.0\SimpleCalculatorLib.AssemblyInfoInputs.cache
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\obj\Debug\netstandard2.0\SimpleCalculatorLib.AssemblyInfo.cs
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\obj\Debug\netstandard2.0\SimpleCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\obj\Debug\netstandard2.0\SimpleCalculatorLib.dll
+C:\Users\Q0RMCGR9\Developer\Test1\SimpleCalculatorLib\obj\Debug\netstandard2.0\SimpleCalculatorLib.pdb
