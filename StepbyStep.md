@@ -341,6 +341,7 @@ What we've achieved:
 3 . ***User-Friendly Demo:*** Created a simple calculator UI that performs basic arithmetic operations, demonstrating the functionality of the .NET 6.0 library.
 
 Implications for Larger Projects:
+
 1 . ***Migration Complexity:*** For more complex applications, moving to .NET 6.0 (or later versions) may be challenging, especially if they heavily rely on libraries or APIs that don't have direct equivalents in .NET 6.0 or are not compliant with .NET Standard.
 
 2 . ***Performance:*** Testing is vital when migrating. While .NET 6.0 offers performance improvements in many areas, it's essential to ensure that these changes don't negatively affect your application's performance.
